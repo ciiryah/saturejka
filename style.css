@@ -38,9 +38,25 @@ body {
   flex: 1 1 auto;
   flex-wrap: nowrap;
   justify-content: space-between;
-  padding: 10px;
+  padding: 10px 10px 40px 10px;
 }
 
 .carousel {
   height: 260px;
 }
+
+.o-nas {
+  display: flex;
+  flex: 1 1 50%;
+  flex-wrap: wrap;
+  justify-content: center;
+}
+
+.onasflex {
+  width: 40%;
+  padding: 5px;
+  margin: auto;
+  text-align: left;
+}
+
+
