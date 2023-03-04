@@ -32,3 +32,11 @@ body {
   margin: auto;
   text-align: center;
 }
+
+.pictures {
+  display: flex;
+  flex: 1 1 auto;
+  height: 260px;
+  justify-content: space-between;
+  padding: 10px;
+}
