@@ -9,3 +9,26 @@ h1,
 h2 {
   font-family: 'Playfair Display', serif;
 }
+
+body {
+  background-color: #ffefef;
+  margin: auto;
+  padding: 0;
+  width: 100%;
+}
+
+.zahlavi {
+  margin: auto;
+  width: 30%;
+  text-align: center;
+  padding: 30px;
+
+}
+
+.obsah {
+  width: 60%;
+  background-color: white;
+  padding: 10px;
+  margin: auto;
+  text-align: center;
+}
