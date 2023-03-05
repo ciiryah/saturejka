@@ -22,6 +22,7 @@ body {
   width: 30%;
   text-align: center;
   padding: 30px;
+  border: 1px solid magenta;
 
 }
 
@@ -31,6 +32,7 @@ body {
   padding: 10px;
   margin: auto;
   text-align: center;
+  border: 1px solid cyan;
 }
 
 .pictures {
@@ -38,14 +40,17 @@ body {
   flex: 1 1 auto;
   flex-wrap: nowrap;
   justify-content: space-between;
-  padding: 10px 10px 40px 10px;
+  padding: 10px 10px 20px 10px;
+  border: 1px solid green;
 }
 
 .carousel {
   height: 260px;
+  border: 1px solid yellow;
 }
 
 .o-nas {
+  border: 1px solid red;
   display: flex;
   flex: 1 1 50%;
   flex-wrap: wrap;
@@ -53,9 +58,10 @@ body {
 }
 
 .onasflex {
+  border: 1px solid blue;
   width: 40%;
   padding: 5px;
-  margin: auto;
+  margin: 2% 2%;
   text-align: left;
 }
 
